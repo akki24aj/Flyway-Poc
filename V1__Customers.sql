@@ -1,4 +1,4 @@
-USE DemoData
+CREATE DATABASE FlywayDb;
 GO
 
 -- drop the table if it already exists and you have permission to delete
