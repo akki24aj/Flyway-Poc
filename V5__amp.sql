@@ -5,7 +5,7 @@ GO
 -- be careful with this, there is not an undo feature with this command
 DROP TABLE IF EXISTS People
 
-CREATE TABLE AMP2
+CREATE TABLE AMP3
 (
 StudentId    int          NOT NULL,
 FirstName    varchar(20)  NOT NULL, 
